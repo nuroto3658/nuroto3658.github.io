@@ -1,0 +1,12 @@
+{
+	"skins": {
+		"LevelView": "resource/eui_skins/LevelView.exml",
+		"GameView": "resource/eui_skins/GameView.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/GameView.exml",
+		"resource/eui_skins/LevelView.exml"
+	],
+	"path": "resource/default.thm.json"
+}
