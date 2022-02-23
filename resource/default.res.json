@@ -1,16 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,question_png,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,map_jpg,master_png,answer_png,next_png,Role_action_tex_png,Role_action_ske_json,Role_action_tex_json",
+			"keys": "egret_icon_png,description_json,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,map_jpg,master_png,next_png,Role_action_tex_png,Role_action_ske_json,Role_action_tex_json,question_02_png,question_01_png,answer_02_png,answer_01_png,no_png,yes_png,button_OFF_01_png,button_OFF_02_png,button_OFF_03_png,button_OFF_04_png,button_ON_01_png,button_ON_02_png,button_ON_03_png,button_ON_04_png",
 			"name": "preload"
 		}
 	],
 	"resources": [
-		{
-			"url": "assets/bg.jpg",
-			"type": "image",
-			"name": "bg_jpg"
-		},
 		{
 			"url": "assets/egret_icon.png",
 			"type": "image",
@@ -20,11 +15,6 @@
 			"url": "config/description.json",
 			"type": "json",
 			"name": "description_json"
-		},
-		{
-			"url": "assets/question.png",
-			"type": "image",
-			"name": "question_png"
 		},
 		{
 			"url": "assets/TS_FNT02.fnt",
@@ -57,11 +47,6 @@
 			"name": "master_png"
 		},
 		{
-			"url": "assets/answer.png",
-			"type": "image",
-			"name": "answer_png"
-		},
-		{
 			"url": "assets/next.png",
 			"type": "image",
 			"name": "next_png"
@@ -80,6 +65,76 @@
 			"url": "assets/Role_action_tex.json",
 			"type": "json",
 			"name": "Role_action_tex_json"
+		},
+		{
+			"url": "assets/question_02.png",
+			"type": "image",
+			"name": "question_02_png"
+		},
+		{
+			"url": "assets/question_01.png",
+			"type": "image",
+			"name": "question_01_png"
+		},
+		{
+			"url": "assets/answer_02.png",
+			"type": "image",
+			"name": "answer_02_png"
+		},
+		{
+			"url": "assets/answer_01.png",
+			"type": "image",
+			"name": "answer_01_png"
+		},
+		{
+			"url": "assets/no.png",
+			"type": "image",
+			"name": "no_png"
+		},
+		{
+			"url": "assets/yes.png",
+			"type": "image",
+			"name": "yes_png"
+		},
+		{
+			"url": "assets/button_OFF_01.png",
+			"type": "image",
+			"name": "button_OFF_01_png"
+		},
+		{
+			"url": "assets/button_OFF_02.png",
+			"type": "image",
+			"name": "button_OFF_02_png"
+		},
+		{
+			"url": "assets/button_OFF_03.png",
+			"type": "image",
+			"name": "button_OFF_03_png"
+		},
+		{
+			"url": "assets/button_OFF_04.png",
+			"type": "image",
+			"name": "button_OFF_04_png"
+		},
+		{
+			"url": "assets/button_ON_01.png",
+			"type": "image",
+			"name": "button_ON_01_png"
+		},
+		{
+			"url": "assets/button_ON_02.png",
+			"type": "image",
+			"name": "button_ON_02_png"
+		},
+		{
+			"url": "assets/button_ON_03.png",
+			"type": "image",
+			"name": "button_ON_03_png"
+		},
+		{
+			"url": "assets/button_ON_04.png",
+			"type": "image",
+			"name": "button_ON_04_png"
 		}
 	]
 }
