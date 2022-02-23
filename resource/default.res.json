@@ -1,16 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "egret_icon_png,description_json,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,map_jpg,master_png,next_png,Role_action_tex_png,Role_action_ske_json,Role_action_tex_json,question_02_png,question_01_png,answer_02_png,answer_01_png,no_png,yes_png,button_OFF_01_png,button_OFF_02_png,button_OFF_03_png,button_OFF_04_png,button_ON_01_png,button_ON_02_png,button_ON_03_png,button_ON_04_png",
+			"keys": "description_json,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,map_jpg,master_png,next_png,Role_action_tex_png,Role_action_ske_json,Role_action_tex_json,question_02_png,question_01_png,answer_02_png,answer_01_png,no_png,yes_png,button_OFF_01_png,button_OFF_02_png,button_OFF_03_png,button_OFF_04_png,button_ON_01_png,button_ON_02_png,button_ON_03_png,button_ON_04_png",
 			"name": "preload"
 		}
 	],
 	"resources": [
-		{
-			"url": "assets/egret_icon.png",
-			"type": "image",
-			"name": "egret_icon_png"
-		},
 		{
 			"url": "config/description.json",
 			"type": "json",
