@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,map_jpg,vs_jpg,battleBG_jpg,enemy_png,master_png,TS_FNT02_fnt,question_png",
+			"keys": "bg_jpg,egret_icon_png,description_json,question_png,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,map_jpg,master_png,answer_png,next_png,Role_action_tex_png,Role_action_ske_json,Role_action_tex_json",
 			"name": "preload"
 		}
 	],
@@ -22,9 +22,19 @@
 			"name": "description_json"
 		},
 		{
-			"url": "assets/map.jpg",
+			"url": "assets/question.png",
 			"type": "image",
-			"name": "map_jpg"
+			"name": "question_png"
+		},
+		{
+			"url": "assets/TS_FNT02.fnt",
+			"type": "font",
+			"name": "TS_FNT02_fnt"
+		},
+		{
+			"url": "assets/TS_FNT02.png",
+			"type": "image",
+			"name": "TS_FNT02_png"
 		},
 		{
 			"url": "assets/vs.jpg",
@@ -37,9 +47,9 @@
 			"name": "battleBG_jpg"
 		},
 		{
-			"url": "assets/enemy.png",
+			"url": "assets/map.jpg",
 			"type": "image",
-			"name": "enemy_png"
+			"name": "map_jpg"
 		},
 		{
 			"url": "assets/master.png",
@@ -47,14 +57,29 @@
 			"name": "master_png"
 		},
 		{
-			"url": "assets/TS_FNT02.fnt",
-			"type": "font",
-			"name": "TS_FNT02_fnt"
+			"url": "assets/answer.png",
+			"type": "image",
+			"name": "answer_png"
 		},
 		{
-			"url": "assets/question.png",
+			"url": "assets/next.png",
 			"type": "image",
-			"name": "question_png"
+			"name": "next_png"
+		},
+		{
+			"url": "assets/Role_action_tex.png",
+			"type": "image",
+			"name": "Role_action_tex_png"
+		},
+		{
+			"url": "assets/Role_action_ske.json",
+			"type": "json",
+			"name": "Role_action_ske_json"
+		},
+		{
+			"url": "assets/Role_action_tex.json",
+			"type": "json",
+			"name": "Role_action_tex_json"
 		}
 	]
 }
