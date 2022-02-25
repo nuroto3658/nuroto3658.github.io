@@ -1,11 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,map_jpg,next_png,Role_action_ske_json,no_png,yes_png,button_OFF_01_png,button_OFF_02_png,button_OFF_03_png,button_OFF_04_png,button_ON_01_png,button_ON_02_png,button_ON_03_png,button_ON_04_png,Boss_01_png,Boss_02_png,Boss_03_png,Role_01_png,Role_action_tex_0_png,Role_action_tex_1_png,Role_action_tex_0_json,Role_action_tex_1_json,success_png,back_button_off_png,back_button_on_png,fail_png,Scenes_01_png,map_all_png,map_lock_02_png,map_lock_03_png,boss_icon_png,Blood_01_png,Blood_02_png,Blood_03_png,Blood_05_png,Blood_04_png,Avatar_01_png,Avatar_frame_png,Avatar_Boss_01_png",
+			"keys": "description_json,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,next_png,Role_action_ske_json,no_png,yes_png,button_OFF_01_png,button_OFF_02_png,button_OFF_03_png,button_OFF_04_png,button_ON_01_png,button_ON_02_png,button_ON_03_png,button_ON_04_png,Boss_01_png,Boss_02_png,Boss_03_png,Role_01_png,Role_action_tex_0_png,Role_action_tex_1_png,Role_action_tex_0_json,Role_action_tex_1_json,success_png,back_button_off_png,back_button_on_png,fail_png,Scenes_01_png,map_all_png,map_lock_02_png,map_lock_03_png,boss_icon_png,Blood_01_png,Blood_02_png,Blood_03_png,Blood_05_png,Blood_04_png,Avatar_01_png,Avatar_frame_png,Avatar_Boss_01_png",
 			"name": "preload"
 		},
 		{
-			"keys": "1631757513935_jpg",
+			"keys": "loagding_png",
 			"name": "loading"
 		},
 		{
@@ -42,11 +42,6 @@
 			"url": "assets/battleBG.jpg",
 			"type": "image",
 			"name": "battleBG_jpg"
-		},
-		{
-			"url": "assets/map.jpg",
-			"type": "image",
-			"name": "map_jpg"
 		},
 		{
 			"url": "assets/next.png",
@@ -147,11 +142,6 @@
 			"url": "assets/Role_01.png",
 			"type": "image",
 			"name": "Role_01_png"
-		},
-		{
-			"url": "assets/1631757513935.jpg",
-			"type": "image",
-			"name": "1631757513935_jpg"
 		},
 		{
 			"url": "assets/frame.png",
@@ -272,6 +262,11 @@
 			"url": "assets/Avatar_Boss_01.png",
 			"type": "image",
 			"name": "Avatar_Boss_01_png"
+		},
+		{
+			"url": "assets/loagding.png",
+			"type": "image",
+			"name": "loagding_png"
 		}
 	]
 }
