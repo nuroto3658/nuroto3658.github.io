@@ -9,7 +9,7 @@
 			"name": "loading"
 		},
 		{
-			"keys": "frame_png,answer_08_easy_png,answer_09_easy_png,answer_05_easy_png,answer_06_easy_png,answer_07_easy_png,answer_04_easy_png,answer_02_easy_png,question_04_easy_png,question_05_easy_png,question_06_easy_png,question_07_easy_png,question_08_easy_png,question_09_easy_png,question_00_easy_png,question_01_easy_png,question_02_easy_png,question_03_easy_png,noIntroduce_png",
+			"keys": "frame_png,answer_08_easy_png,answer_09_easy_png,answer_05_easy_png,answer_06_easy_png,answer_07_easy_png,answer_04_easy_png,answer_02_easy_png,question_04_easy_png,question_05_easy_png,question_06_easy_png,question_07_easy_png,question_08_easy_png,question_09_easy_png,question_00_easy_png,question_01_easy_png,question_02_easy_png,question_03_easy_png,noIntroduce_png,noIntroduce_error_png",
 			"name": "questions"
 		},
 		{
@@ -570,6 +570,11 @@
 			"url": "assets/LoadingBar_01.png",
 			"type": "image",
 			"name": "LoadingBar_01_png"
+		},
+		{
+			"url": "assets/noIntroduce_error.png",
+			"type": "image",
+			"name": "noIntroduce_error_png"
 		}
 	]
 }
