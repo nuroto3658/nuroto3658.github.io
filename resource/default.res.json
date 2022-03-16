@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,next_png,no_png,yes_png,button_OFF_01_png,button_OFF_02_png,button_OFF_03_png,button_OFF_04_png,button_ON_01_png,button_ON_02_png,button_ON_03_png,button_ON_04_png,Boss_01_png,Boss_02_png,Boss_03_png,Role_01_png,success_png,back_button_off_png,back_button_on_png,fail_png,Scenes_01_png,map_all_png,map_lock_02_png,map_lock_03_png,boss_icon_png,Blood_01_png,Blood_02_png,Blood_03_png,Blood_05_png,Blood_04_png,Avatar_01_png,Avatar_frame_png,Avatar_Boss_01_png,Role_action_01_tex_1_png,Role_action_01_tex_2_png,Role_action_tex_0_png,Role_action_tex_1_png,Role_action_01_tex_0_png,Role_action_01_tex_1_json,Role_action_ske_json,Role_action_01_tex_2_json,Role_action_tex_1_json,Role_action_tex_0_json,Role_action_01_ske_json,Role_action_01_tex_0_json,question_03_easy_png,question_05_easy_png,question_04_easy_png,question_06_easy_png,question_07_easy_png,question_08_easy_png,question_09_easy_png,question_02_easy_png,question_01_easy_png,question_00_easy_png",
+			"keys": "description_json,TS_FNT02_fnt,TS_FNT02_png,vs_jpg,battleBG_jpg,next_png,no_png,yes_png,button_OFF_01_png,button_OFF_02_png,button_OFF_03_png,button_OFF_04_png,button_ON_01_png,button_ON_02_png,button_ON_03_png,button_ON_04_png,Boss_01_png,Boss_02_png,Boss_03_png,Role_01_png,success_png,back_button_off_png,back_button_on_png,fail_png,Scenes_01_png,map_all_png,map_lock_02_png,map_lock_03_png,boss_icon_png,Blood_01_png,Blood_02_png,Blood_03_png,Blood_05_png,Blood_04_png,Avatar_01_png,Avatar_frame_png,Avatar_Boss_01_png,Role_action_01_tex_1_png,Role_action_01_tex_2_png,Role_action_tex_0_png,Role_action_tex_1_png,Role_action_01_tex_0_png,Role_action_01_tex_1_json,Role_action_ske_json,Role_action_01_tex_2_json,Role_action_tex_1_json,Role_action_tex_0_json,Role_action_01_ske_json,Role_action_01_tex_0_json",
 			"name": "preload"
 		},
 		{
@@ -13,7 +13,7 @@
 			"name": "questions"
 		},
 		{
-			"keys": "Boss_02_png,Boss_03_png,Scenes_02_png,Scenes_03_png",
+			"keys": "Boss_02_png,Boss_03_png,Scenes_02_png,Scenes_03_png,Avatar_Boss_02_png,Avatar_Boss_03_png",
 			"name": "game2"
 		},
 		{
@@ -575,6 +575,16 @@
 			"url": "assets/noIntroduce_error.png",
 			"type": "image",
 			"name": "noIntroduce_error_png"
+		},
+		{
+			"url": "assets/Avatar_Boss_02.png",
+			"type": "image",
+			"name": "Avatar_Boss_02_png"
+		},
+		{
+			"url": "assets/Avatar_Boss_03.png",
+			"type": "image",
+			"name": "Avatar_Boss_03_png"
 		}
 	]
 }
